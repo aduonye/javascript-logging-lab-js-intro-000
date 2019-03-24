@@ -1,2 +1,3 @@
 console.log("aduonye");
-consol.error("make it fast");
+console.error("make it fast");
+
